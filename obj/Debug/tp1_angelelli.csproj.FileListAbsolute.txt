@@ -1,0 +1,4 @@
+C:\Users\Javier\source\repos\TP1_Angelelli\tp1_angelelli\obj\Debug\tp1_angelelli.csprojAssemblyReference.cache
+C:\Users\Javier\source\repos\TP1_Angelelli\tp1_angelelli\obj\Debug\tp1_angelelli.Properties.Resources.resources
+C:\Users\Javier\source\repos\TP1_Angelelli\tp1_angelelli\obj\Debug\tp1_angelelli.csproj.GenerateResource.cache
+C:\Users\Javier\source\repos\TP1_Angelelli\tp1_angelelli\obj\Debug\tp1_angelelli.csproj.CoreCompileInputs.cache
